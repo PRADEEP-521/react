@@ -1,0 +1,29 @@
+{
+  "name": "521_pradeep",
+  "version": "1.0.0",
+  "description": "ass2",
+  "source": "/src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRADEEP-521/react.git"
+  },
+  "author": "pradeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRADEEP-521/react/issues"
+  },
+  "homepage": "https://github.com/PRADEEP-521/react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[ "last 10 chrome versions", "lst 2 firefox version" ]
+}
